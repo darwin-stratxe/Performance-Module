@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editor/system noise
+.vscode/
